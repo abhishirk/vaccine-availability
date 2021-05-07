@@ -1,4 +1,4 @@
-## Corona vaccine slots Availability API (python)
+## Corona vaccine slots Availability API (python) [INDIA,COWIN,API,STATUS]
 API to get the free slots in for vaccine in given {state}{district}{age limit: 18/45}
 
 Required libraries
